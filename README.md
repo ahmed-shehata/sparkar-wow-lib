@@ -1,10 +1,10 @@
 # Spark AR - WoW lib
 
-### Description
+## Description
 
 Adds the WoW factor to any Spark AR `SceneObject`.
 
-### Usage
+## Usage
 
 ```javascript
 const WOWLib = require('sparkar-wow-lib');
@@ -31,6 +31,6 @@ WOWLib.addWowFactor(hatObject,0.05,0.1);
 
 ```
 
-### Demo
+## Demo
 
 ![Spark AR WOW Lib](https://raw.githubusercontent.com/ahmed-shehata/sparkar-wow-lib/master/demo.gif)
