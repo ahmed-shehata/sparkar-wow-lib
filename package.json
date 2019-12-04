@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Adding the WOW Factor to Spark AR Effects",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-shehata/sparkar-wow-lib.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
