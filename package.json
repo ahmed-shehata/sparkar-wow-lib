@@ -1,0 +1,15 @@
+{
+  "name": "sparkar-wow-lib",
+  "version": "1.0.0",
+  "description": "Adding the WOW Factor to Spark AR Effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sparkar",
+    "wow"
+  ],
+  "author": "Ahmed Shehata",
+  "license": "MIT"
+}
