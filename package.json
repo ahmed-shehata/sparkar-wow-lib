@@ -1,6 +1,6 @@
 {
   "name": "sparkar-wow-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adding the WOW Factor to Spark AR Effects",
   "main": "index.js",
   "repository": {
